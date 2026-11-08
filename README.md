@@ -3,7 +3,8 @@
 A real-time, interactive **Map-Based Pickup & Ride Confirmation Platform** featuring dynamic route calculation, automated driver assignment, live map telemetry, and multi-tier fare estimation.
 
 ---
-![Uploading Screenshot.jpg…]()
+<img width="1896" height="889" alt="Screenshot" src="https://github.com/user-attachments/assets/ec4de3a0-fb88-49d1-aabc-0ec227e29876" />
+
 
 ##  Key Features
 
