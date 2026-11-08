@@ -3,7 +3,8 @@
 A real-time, interactive **Map-Based Pickup & Ride Confirmation Platform** featuring dynamic route calculation, automated driver assignment, live map telemetry, and multi-tier fare estimation.
 
 ---
-![RideRadar Interface](assets/screenshot.jpg)
+![Uploading Screenshot.jpg…]()
+
 ##  Key Features
 
 * Interactive Map Integration:** Pick exact pickup and destination coordinates directly using interactive map markers or automatic GPS detection.
