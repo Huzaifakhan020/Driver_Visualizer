@@ -1,0 +1,4 @@
+   rideradar.db
+   __pycache__/
+   *.pyc
+   .env
